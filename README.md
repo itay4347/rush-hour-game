@@ -26,6 +26,7 @@ The system is highly modular, split into distinct classes with clear responsibil
 2. Prepare a JSON configuration file containing the initial car layout.
 3. Run the application from your terminal by passing the JSON file path as a command-line argument[cite: 5]:
 ```bash
-python rush-hour.py <path_to_json_file>```
+python rush-hour.py <path_to_json_file>
+```bash
 
 4. Follow the on-screen prompts to input your moves (format: Name,Direction) until you reach the exit[cite: 4]!
